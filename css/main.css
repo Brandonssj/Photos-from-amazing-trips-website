@@ -1,0 +1,72 @@
+/********************
+General
+*********************/
+
+
+/*********
+Header
+*********/
+.main-header {
+	text-align: center;
+}
+
+.main-header ul li{
+	list-style: none;
+	display: inline-block;
+}
+
+.main-header ul li a{
+	text-decoration: none;
+}
+
+/*********
+Footer
+*********/
+footer {
+	text-align: center;
+}
+
+/*********
+Main
+*********/
+
+body{
+	background-image: radial-gradient(circle at bottom left, aqua 0%, steelblue 43%);
+	color: #fff;
+}
+
+
+
+
+/********************
+Home Page
+*********************/
+.home-main-body {
+	width:60%;
+	margin: auto;
+	text-align: center;
+	background-color: darkgrey;
+	border-top: 6px solid lightgrey;
+	border-radius: 10px;
+	box-shadow: 0 0 8px 5px #747D7D;
+}
+
+.home-main-body h2{
+	display: inline-block;
+	padding: 0 .7em 0;
+	border-bottom: 2px solid lightgrey;
+}
+
+.home-main-body p{
+	text-indent: .7em;
+}
+
+#me-in-the-snow {
+	width: 64%;
+}
+
+
+
+/********************
+Photo Page
+*********************/
